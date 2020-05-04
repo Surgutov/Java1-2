@@ -1,0 +1,9 @@
+Credit Card Number Validator
+Провека валидных ключей карт Visa, MasterCard, Diners Club, Discover, AMERICAN EXPRESS при помощи программы redit Card Number Validator
+Открыть страницу https://www.jetbrains.com/toolbox-app/;
+Загрузить IntelliJ IDEA нажав кнопку "Download";
+Запустить IntelliJ IDEA на рабочей станции и создать новый проект;
+Заменить исходный код на код из технического задания;
+Запустить Credit Card Number Validator, используя сгенерированные номера кард для платежных систем;
+Ожидаемый результат:
+Все номера карт проходят валидацию: Result is OK

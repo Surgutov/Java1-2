@@ -1,0 +1,57 @@
+Credit Card Number Validator-Visa
+Провека валидных ключей карт Visa при помощи программы Credit Card Number Validator
+Открыть страницу https://www.jetbrains.com/toolbox-app/;
+Загрузить IntelliJ IDEA нажав кнопку "Download";
+Запустить IntelliJ IDEA на рабочей станции и создать новый проект;
+Заменить исходный код на код из технического задания;
+Запустить Credit Card Number Validator, используя сгенерированные номера кард для платежной системы;
+Ожидаемый результат:
+Все номера карт проходят валидацию: Result is OK
+
+
+
+Credit Card Number Validator-MasterCard
+Провека валидных ключей карт MasterCard при помощи программы Credit Card Number Validator
+Открыть страницу https://www.jetbrains.com/toolbox-app/;
+Загрузить IntelliJ IDEA нажав кнопку "Download";
+Запустить IntelliJ IDEA на рабочей станции и создать новый проект;
+Заменить исходный код на код из технического задания;
+Запустить Credit Card Number Validator, используя сгенерированные номера кард для платежной системы;
+Ожидаемый результат:
+Все номера карт проходят валидацию: Result is OK
+
+
+
+Credit Card Number Validator-Diners Club
+Провека валидных ключей карт Diners Club при помощи программы Credit Card Number Validator
+Открыть страницу https://www.jetbrains.com/toolbox-app/;
+Загрузить IntelliJ IDEA нажав кнопку "Download";
+Запустить IntelliJ IDEA на рабочей станции и создать новый проект;
+Заменить исходный код на код из технического задания;
+Запустить Credit Card Number Validator, используя сгенерированные номера кард для платежной системы;
+Ожидаемый результат:
+Все номера карт проходят валидацию: Result is OK
+
+
+
+Credit Card Number Validator-Discover
+Провека валидных ключей карт Discover при помощи программы Credit Card Number Validator
+Открыть страницу https://www.jetbrains.com/toolbox-app/;
+Загрузить IntelliJ IDEA нажав кнопку "Download";
+Запустить IntelliJ IDEA на рабочей станции и создать новый проект;
+Заменить исходный код на код из технического задания;
+Запустить Credit Card Number Validator, используя сгенерированные номера кард для платежной системы;
+Ожидаемый результат:
+Все номера карт проходят валидацию: Result is OK
+
+
+
+Credit Card Number Validator-AMERICAN EXPRESS
+Провека валидных ключей карт AMERICAN EXPRESS при помощи программы Credit Card Number Validator
+Открыть страницу https://www.jetbrains.com/toolbox-app/;
+Загрузить IntelliJ IDEA нажав кнопку "Download";
+Запустить IntelliJ IDEA на рабочей станции и создать новый проект;
+Заменить исходный код на код из технического задания;
+Запустить Credit Card Number Validator, используя сгенерированные номера кард для платежной системы;
+Ожидаемый результат:
+Все номера карт проходят валидацию: Result is OK
