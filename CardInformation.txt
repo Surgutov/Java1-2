@@ -1,0 +1,95 @@
+CARD BRAND 	: MAESTRO
+    CARD NUMBER	: 6761711480063732
+    BANK	: BANK OF TRADE-UNIONS' SOLIDARITY AND SOCIAL
+    NAME	: Anton Averyanov
+    ADDRESS	: 676 Dickens St
+    COUNTRY	: Russian Federation
+    CVV/CVV2	: 380
+    EXPIRY	: 3/2024
+    CARD PIN	: 2289
+
+CARD BRAND 	: MAESTRO
+    CARD NUMBER	: 676196000494451892  - 18 знаков
+    BANK	: SBERBANK OF RUSSIA
+    NAME	: Frederik Geisler
+    ADDRESS	: Ranviksvingen 227
+    COUNTRY	: Russian Federation
+    CVV/CVV2	: 853
+    EXPIRY	: 8/2021
+    CARD PIN	: 7091
+
+CARD BRAND 	: VISA
+    CARD NUMBER	: 4787524221902745
+    BANK	: CJSC ALFA-BANK
+    NAME	: Anna Aho
+    ADDRESS	: Velperweg 20
+    COUNTRY	: Russian Federation
+    CVV/CVV2	: 143
+    EXPIRY	: 1/2023
+    CARD PIN	: 5642
+
+CARD BRAND 	: MASTERCARD
+    CARD NUMBER	: 5305274391039072
+    BANK	: ABSOLUT BANK
+    NAME	: Takeru Kasai
+    ADDRESS	: 40 Rue du Palais
+    COUNTRY	: Russian Federation
+    CVV/CVV2	: 198
+    EXPIRY	: 5/2025
+    CARD PIN	: 8550
+
+CARD BRAND 	: AMERICAN EXPRESS
+    CARD NUMBER	: 3721297721640286
+    BANK	: BANCK OF AMERICA
+    NAME	: Adanma Onochie
+    ADDRESS	: 3719 Smith Road
+    COUNTRY	: United States
+    CVV/CVV2	: 729
+    EXPIRY	: 9/2023
+    CARD PIN	: 1166
+
+CARD BRAND 	: AMERICAN EXPRESS
+    CARD NUMBER	: 372129359001264  - 15 знаков
+    BANK	: BANCK OF AMERICA
+    NAME	: Chika Takahasi
+    ADDRESS	: 3003 Nash Street
+    COUNTRY	: United States
+    CVV/CVV2	: 186
+    EXPIRY	: 4/2022
+    CARD PIN	: 7608
+
+CARD BRAND 	: DISCOVER
+    CARD NUMBER	: 3603942327195291
+    BANK	: DINERS CLUB INTERNATIONAL
+    NAME	: Johanne Koch
+    ADDRESS	: 4080 Kenwood Place
+    COUNTRY	: United States
+    CVV/CVV2	: 799
+    EXPIRY	: 7/2022
+    CARD PIN	: 3776
+
+CARD BRAND 	: DISCOVER
+    CARD NUMBER	: 3605799193958832
+    BANK	: DINERS CLUB INTERNATIONAL
+    NAME	: Olisanugo Onyemaechi
+    ADDRESS	: 2059 Pursglove Court
+    COUNTRY	: United States
+    CVV/CVV2	: 358
+    EXPIRY	: 9/2023
+    CARD PIN	: 3898
+
+Issuing Network :	Diners Club Credit Card
+Card Number :	38450793112122  -14 знаков
+Name :	Matthew Sargent
+Address :	Crescent Street
+Country :	Bolivia
+CVV :	735
+EXP :	8/2028
+
+Issuing Network :	Diners Club Credit Card
+Card Number :	36785751736384  -14 знаков
+Name :	Julia Stein
+Address :	Ap #273-9741 Egestas St.
+Country :	Bolivia
+CVV :	639
+EXP :	8/2043
